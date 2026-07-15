@@ -6,6 +6,12 @@ Upload a CSV and Insight automatically takes a look at the data, checks for comm
 
 There's also an optional AI Analyst that takes the results from the analysis and explains the important findings in plain English.
 
+## Live Demo
+
+Try Insight here:
+
+https://insightdata.streamlit.app
+
 ## What it does
 
 - Upload and preview CSV files
