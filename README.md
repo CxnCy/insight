@@ -73,7 +73,7 @@ You'll need your own OpenAI API key with available API credits to use the AI fea
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/CxnCy/insight.git
 cd insight
 ```
 
@@ -126,6 +126,7 @@ Then run:
 ```bash
 streamlit run app.py
 ```
+
 
 ## Why I built it
 
