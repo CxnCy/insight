@@ -127,8 +127,6 @@ Then run:
 streamlit run app.py
 ```
 
-Your `.env` file is ignored by Git, so your API key won't be included in the repository.
-
 ## Why I built it
 
 When working with a new dataset, there's usually a lot of repetitive checking before you can actually start digging into the interesting parts.
